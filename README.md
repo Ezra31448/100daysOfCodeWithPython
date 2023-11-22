@@ -49,23 +49,11 @@ String have method of pulling out particular element from a string and it call '
 
 ```print("Hello"[4])```
 
-Integer = 
+Integer = all the number without floating point are Integer e.g. 123, 123_456_789 it's the same as 123456789 but it's easier to read.
 
-Float = 
+Float = like a number of PI, it's a decimal point.
 
 Boolean = True or False in another formula 0 or 1
-
-#### Numbers
-
-What's Numbers ?
-
-#### Operations
-
-What's Operations?
-
-#### Type Conversion
-
-What's Type Conversion?
 
 #### f String
 
