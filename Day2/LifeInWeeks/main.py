@@ -11,6 +11,9 @@
 # Example Output
 # You have 1768 weeks left.
 
+# There are 365 days in a year, 
+# 52 weeks in a year and 12 months in a year.
+
 age = input()
 # 🚨 Don't change the code above 👆
 # Write your code below this line 👇
