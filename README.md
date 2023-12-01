@@ -58,3 +58,28 @@ Boolean = True or False in another formula 0 or 1
 #### f String
 
 What's f String?
+
+## Day 3 : Treasure Island
+
+### What's I have learned from Day 3
+
+#### Control Flow
+
+##### If else Statment
+
+```python
+print("Welcome to the Rollercoaster!")
+height = int(input("What's your height in CM? : "))
+
+if height > 120:
+    print("Can ride")
+    age = int(input("What's your age? : "))
+    if age < 12:
+        print("Please pay $7.")
+    elif age >= 12 and age < 18:
+        print("Please pay $9.")
+    else:
+        print("Please pay $12.")
+else:
+    print("Sorry, ypu have to grow taller before you can ride.")
+```
